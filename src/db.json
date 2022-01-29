@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "category": "Electronics",
+      "price": 4000,
+      "description": "This is description of product 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "category": "Electronics",
+      "price": 2000,
+      "description": "This is description of product 2"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "category": "Books",
+      "price": 1000,
+      "description": "This is description of product 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "category": "",
+      "price": "",
+      "description": "This is description of product 4"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "category": "",
+      "price": "",
+      "description": "This is description of product 5"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 5,
+      "comment": "Review 1 for product id 1",
+      "productID": 1
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "comment": "Review 2 for product id 1",
+      "productID": 1
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "comment": "Review 3 for product id 1",
+      "productID": 1
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "comment": "Review 4 for product id 2",
+      "productID": 2
+    },
+    {
+      "id": 5,
+      "rating": 5,
+      "comment": "Review 5 for product id 3",
+      "productID": 3
+    }
+  ]
+}

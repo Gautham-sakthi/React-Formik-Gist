@@ -1,0 +1,40 @@
+.app {
+  display: flex;
+  justify-content: center;
+}
+/* label {
+  display: flex;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-left: 50px;
+}
+input,
+input[type="text"],
+input[type="email"],
+textarea,
+.Field {
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42;
+  background-image: none;
+  color: #555;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+} */
+
+button {
+  display: block;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+.error {
+  color: red;
+}
+.form-controll {
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
